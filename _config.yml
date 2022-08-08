@@ -10,20 +10,18 @@
 ############################
 
 # Name of website
-title: My Website
+title: Tgk's Blog
 
 # Your name to show in the footer
-author: Some Person
+author: Tawonga Grant Kanyenda
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  About Me: "Student | Software Engineer(pending) | Christian | Tech Enthusiast"
+  
   Author's home: "https://deanattali.com"
 
 ################
@@ -49,33 +47,14 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "kanyendatawonga@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-#  discord: invite/invite_code or users/userid 
-#  kaggle: yourname
-#  hackerrank: yourname
+  
+  github: https://github.com/TgkCapture
+  twitter: https://twitter.com/TawongaKanyenda
+  spotify: Fresh Kid
+  telephone: +265881174249
+
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
